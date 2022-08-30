@@ -7,14 +7,14 @@
 :large_blue_diamond: De Henry Bootcamp a quien le debo mis conocimientos y ganas de un aprendizaje continuo; salimos con altas habilidades técnicas, con ganas de superarnos, impulsar nuestro entorno, complementar y orientar al equipo; tuve la oportunidad de liderar a un equipo en el proyecto final del cursado mejorando mis Soft Skills.
 
 ## :rocket: My Projects
-- Ingresa al repo [Aquí](https://github.com/J1I2B345/GameMatch)
-
+- GameMatch: Una app movile desarrollada con React Native para conectar a los gamers del mundo [Aquí](https://github.com/J1I2B345/GameMatch)
+- Game App: Es mi proyecto individual que realize estudiando en Henry [Aquí](https://github.com/UlisesFarfan/PI_UlisesFarfan) deploy [Aquí](https://pi-ulises-farfan.vercel.app)
   
 ## :desktop_computer: Technologies
 - __Tools:__ NPM, Scrum.
-- __Backend:__ Node.js, Express, Sequelize, Postman, REST API.
+- __Backend:__ Node.js, Express, Sequelize, Postman, REST API, Heroku.
 - __Database:__ PostgreSQL, SQL, MongoDB.
-- __Frontend:__ React, React Native, Redux, HTML5, CSS3.
+- __Frontend:__ React, React Native, Redux, HTML5, CSS3, Vercel.
 
 
 ### :telephone_receiver::email: __Contáctame:__
