@@ -13,27 +13,16 @@
 - Actualmente estoy graduado del Bootcamp de Henry puliendo skills y profundizando mis conocimientos en tecnologías como: MongoDB, Next.js, 
 
 ## :rocket: My Projects
-- Ingresa al repo [Aquí](https://github.com/Luciano-plaza/Your-Job) o al deployment [Aquí](http://your-job-seven.vercel.app)
-<br/>
-<div style={display:flex}>
-<img height='130' src='./Images/imagePF1.jpeg'>
-<img height='130' src='./Images/imagePF6.jpeg'>
-<img height='130' src='./Images/imagePF7.jpeg'>
-</div>
+- Ingresa al repo [Aquí](https://github.com/J1I2B345/GameMatch)
+
   
 ## :desktop_computer: Technologies
 - __Tools:__ NPM, Scrum.
 - __Backend:__ Node.js, Express, Sequelize, Postman, REST API.
-- __Database:__ PostgreSQL, SQL.
-- __Frontend:__ React, Redux, HTML5, CSS3.
-
-## :books: Learning
-- __Tools:__ Vite, Docker, Kubernetes, Jest.
-- __Backend:__ Rust, Python, Deno.
-- __Database:__ MongoDB.
-- __Frontend:__ Next.js.
+- __Database:__ PostgreSQL, SQL, MongoDB.
+- __Frontend:__ React, React Native, Redux, HTML5, CSS3.
 
 
 ### :telephone_receiver::email: __Contáctame:__
-- __CEL:__ +54 3812061436
-- __Gmail:__ lucianomps2015@gmail.com
+- __CEL:__ +54 3875330041
+- __Gmail:__ ulisesfarfan296@gmail.com
