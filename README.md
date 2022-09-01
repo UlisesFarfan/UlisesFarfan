@@ -8,7 +8,7 @@
 
 ## :rocket: My Projects
 - GameMatch: Una app movile desarrollada con React Native para conectar a los gamers del mundo [Aquí](https://github.com/J1I2B345/GameMatch)
-- Game App: Es mi proyecto individual que realize estudiando en Henry [Aquí](https://github.com/UlisesFarfan/PI_UlisesFarfan) deploy [Aquí](https://pi-ulises-farfan.vercel.app)
+- Game App: Es mi proyecto individual que realicé estudiando en Henry [Aquí](https://github.com/UlisesFarfan/PI_UlisesFarfan) deploy [Aquí](https://pi-ulises-farfan.vercel.app)
   
 ## :desktop_computer: Technologies
 - __Tools:__ NPM, Scrum.
