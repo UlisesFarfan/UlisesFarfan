@@ -4,11 +4,11 @@
 :large_orange_diamond: Desarrollador Full Stack Web Developer en JavaScript orientado al Front-End pero adaptable a las necesidades del equipo, con la capacidad y proactividad para proyectos escalables y modularizados donde siempre se aprenda de los procesos y resultados.
 
 ## :man_student: ¿Why me?
-:large_blue_diamond: De Henry Bootcamp a quien le debo mis conocimientos y ganas de un aprendizaje continuo; salimos con altas habilidades técnicas, con ganas de superarnos, impulsar nuestro entorno, complementar y orientar al equipo; tuve la oportunidad de liderar a un equipo en el proyecto final del cursado mejorando mis Soft Skills.
+:large_blue_diamond: From Henry Bootcamp to whom I owe my knowledge and desire for continuous learning; we left with high technical skills, eager to improve ourselves, boost our environment, complement and guide the team; I had the opportunity to lead a team in the final project of the course improving my Soft Skills.
 
 ## :rocket: My Projects
-- GameMatch: Una app movile desarrollada con React Native para conectar a los gamers del mundo [Aquí](https://github.com/J1I2B345/GameMatch)
-- Game App: Es mi proyecto individual que realicé estudiando en Henry [Aquí](https://github.com/UlisesFarfan/PI_UlisesFarfan) deploy [Aquí](https://pi-ulises-farfan.vercel.app)
+- GameMatch: A mobile app developed with React Native to connect gamers worldwide [Here](https://github.com/J1I2B345/GameMatch)
+- Game App: It is my individual project that I did while studying at Henry's. [Here](https://github.com/UlisesFarfan/PI_UlisesFarfan) deploy [Aquí](https://pi-ulises-farfan.vercel.app)
   
 ## :desktop_computer: Technologies
 - __Tools:__ NPM, Scrum.
