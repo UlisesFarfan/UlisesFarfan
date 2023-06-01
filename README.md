@@ -1,4 +1,4 @@
-![huge](./img/Git Portada.gif)
+![huge](./img/GitPortada.gif)
 
 # :boy: ¿Who I am? :argentina:
 :large_orange_diamond: Desarrollador Full Stack Web Developer en JavaScript orientado al Front-End pero adaptable a las necesidades del equipo, con la capacidad y proactividad para proyectos escalables y modularizados donde siempre se aprenda de los procesos y resultados.
