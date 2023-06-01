@@ -1,7 +1,7 @@
 ![huge](./img/GitPortada.gif)
 
 # :boy: ¿Who I am? :argentina:
-:large_orange_diamond: Desarrollador Full Stack Web Developer en JavaScript orientado al Front-End pero adaptable a las necesidades del equipo, con la capacidad y proactividad para proyectos escalables y modularizados donde siempre se aprenda de los procesos y resultados.
+:large_orange_diamond: Full Stack Web Developer in JavaScript oriented Front-End but adaptable to the needs of the team, with the ability and proactivity for scalable and modularized projects where you always learn from the processes and results.
 
 ## :man_student: ¿Why me?
 :large_blue_diamond: From Henry Bootcamp to whom I owe my knowledge and desire for continuous learning; we left with high technical skills, eager to improve ourselves, boost our environment, complement and guide the team; I had the opportunity to lead a team in the final project of the course improving my Soft Skills.
