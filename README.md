@@ -11,7 +11,7 @@
 - Game App: It is my individual project that I did while studying at Henry's. [Here](https://github.com/UlisesFarfan/PI_UlisesFarfan) deploy [Aquí](https://pi-ulises-farfan.vercel.app)
   
 ## :desktop_computer: Technologies
-- __Tools:__ NPM, Scrum.
+- __Tools:__ NPM, Yarn, Scrum, Slack, Jira, Zephyr Squad, Figma.
 - __Backend:__ Node.js, Express, Sequelize, Postman, REST API, Heroku.
 - __Database:__ PostgreSQL, SQL, MongoDB.
 - __Frontend:__ React, React Native, Redux, HTML5, CSS3, Vercel.
