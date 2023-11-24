@@ -13,7 +13,7 @@
 ## :desktop_computer: Technologies
 - __Tools:__ NPM, Yarn, Scrum, Slack, Jira, Zephyr Squad, Figma, AWS.
 - __Backend:__ TypeScript, JavaScript, Golang, Java, Node.js, Express, Sequelize, Postman, REST API, Heroku, Railway.
-- __Database:__ PostgreSQL, SQL, MongoDB.
+- __Database:__ PostgreSQL, SQL, MongoDB, DynamoDB.
 - __Frontend:__ TypeScript, JavaScript, React, React Native, Redux, HTML5, CSS3, Vercel.
 
 
