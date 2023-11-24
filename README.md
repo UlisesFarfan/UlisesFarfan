@@ -11,10 +11,10 @@
 - Game App: It is my individual project that I did while studying at Henry's. [Here](https://github.com/UlisesFarfan/PI_UlisesFarfan)
   
 ## :desktop_computer: Technologies
-- __Tools:__ NPM, Yarn, Scrum, Slack, Jira, Zephyr Squad, Figma.
-- __Backend:__ Node.js, Express, Sequelize, Postman, REST API, Heroku, Railway.
+- __Tools:__ NPM, Yarn, Scrum, Slack, Jira, Zephyr Squad, Figma, AWS.
+- __Backend:__ TypeScript, JavaScript, Golang, Java, Node.js, Express, Sequelize, Postman, REST API, Heroku, Railway.
 - __Database:__ PostgreSQL, SQL, MongoDB.
-- __Frontend:__ React, React Native, Redux, HTML5, CSS3, Vercel.
+- __Frontend:__ TypeScript, JavaScript, React, React Native, Redux, HTML5, CSS3, Vercel.
 
 
 ### :telephone_receiver::email: __Contáctame:__
