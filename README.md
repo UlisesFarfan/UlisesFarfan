@@ -1,6 +1,6 @@
 ![huge](./img/GitPortada.gif)
 
-# :boy: ¿Who I am? :argentina:
+# :boy: ¿Who am I? :argentina:
 :large_orange_diamond: Full Stack Web Developer in JavaScript oriented Front-End but adaptable to the needs of the team, with the ability and proactivity for scalable and modularized projects where you always learn from the processes and results.
 
 ## :man_student: ¿Why me?
