@@ -18,7 +18,6 @@
 
 
 ### :telephone_receiver::email: __Contáctame:__
-- __CEL:__ +54 3875330041
 - __Gmail:__ ulisesfarfan296@gmail.com
 - __Linkedin:__ https://www.linkedin.com/in/ulises-farfan-85ab27223/
 - __Portfolio:__ https://ulises-farfan.vercel.app
